@@ -15,7 +15,7 @@
 		"onCommand:rc-front-end-test-snippets.updateSnippets"
 	],
 	"main": "./dist/extension.js",
-	"icon": "rc_icon.png",
+	"icon": "https://raw.githubusercontent.com/QuinnQiu1990/rc-front-end-test-snippets/master/icon.png",
 	"contributes": {
 		"commands": [
 			{
