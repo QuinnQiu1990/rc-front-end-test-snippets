@@ -2,7 +2,7 @@
 	"name": "rc-front-end-test-snippets",
 	"displayName": "rc-front-end-test-snippets",
 	"description": "rc-front-end-test-snippets is a plugin, which provides common live templates for Integration/Unit case",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"publisher": "quinn",
 	"engines": {
 		"vscode": "^1.64.0"
@@ -61,11 +61,11 @@
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/EvilsRebel/rc-front-end-test-snippets.git"
-	  },
-	  "author": "",
-	  "license": "ISC",
-	  "bugs": {
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
 		"url": "https://github.com/EvilsRebel/rc-front-end-test-snippets/issues"
-	  },
-	  "homepage": "https://github.com/EvilsRebel/rc-front-end-test-snippets#readme"
+	},
+	"homepage": "https://github.com/EvilsRebel/rc-front-end-test-snippets#readme"
 }
